@@ -2,7 +2,6 @@ package guru.springframework.converters;
 
 import guru.springframework.commands.NotesCommand;
 import guru.springframework.domain.Notes;
-import guru.springframework.domain.converters.NotesToNotesCommand;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

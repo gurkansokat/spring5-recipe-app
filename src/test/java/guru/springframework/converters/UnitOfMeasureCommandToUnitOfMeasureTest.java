@@ -2,7 +2,6 @@ package guru.springframework.converters;
 
 import guru.springframework.commands.UnitOfMeasureCommand;
 import guru.springframework.domain.UnitOfMeasure;
-import guru.springframework.domain.converters.UnitOfMeasureCommandToUnitOfMeasure;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

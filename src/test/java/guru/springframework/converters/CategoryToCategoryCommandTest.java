@@ -2,7 +2,6 @@ package guru.springframework.converters;
 
 import guru.springframework.commands.CategoryCommand;
 import guru.springframework.domain.Category;
-import guru.springframework.domain.converters.CategoryToCategoryCommand;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
